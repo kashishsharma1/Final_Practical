@@ -16,6 +16,7 @@
     background-color: rgb(37, 37, 209);
     padding-top: 15px;
     padding-left: 40px;
+    border-bottom: 2px solid gold;
 
 }
 
@@ -96,6 +97,7 @@
     margin-left: 100px;
     position: relative;
     top: 450px;
+    border-radius: 5px;
 
 }
 
